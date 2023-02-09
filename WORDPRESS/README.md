@@ -1,15 +1,15 @@
-###KHÓA HỌC LẬP TRÌNH WORDPRESS 2023###
+# KHÓA HỌC LẬP TRÌNH WORDPRESS 2023
 
 WordPress là một CMS nổi tiếng hiện nay và WordPress đang đứng ở đầu danh sách các CMS được ưu chuộng nhất trên thế giới đứng trên 2 CMS khác nổi tiếng khác là Drupal và Joomla - Hiện nay tại Việt Nam nói riêng và thế giới nói chung việc sử dụng WordPress để xây dựng website khá phổ biến vì cộng đồng người sử dụng WordPress rất lớn và WordPress có một kho ứng dụng mở rộng với hơn 33K plugin hỗ trợ giải quyết nhiều vấn đề của website.
 
 Hãy cùng Quảng Trị Coder chinh phục CMS nỗi tiếng này các bạn nhé:
 
-###TÀI LIỆU KHÓA HỌC:
+## TÀI LIỆU KHÓA HỌC:
 https://github.com/taitamfc/TAI_LIEU_KHOA_HOC/tree/main/WORDPRESS
 
-##NỘI DUNG KHÓA HỌC:
+## NỘI DUNG KHÓA HỌC:
 
-Chương I: Giới thiệu cách sử dụng CMS
+### Chương I: Giới thiệu cách sử dụng CMS
 - 1 - Giới thiệu và cài đặt: https://youtu.be/ujyikzilp5M
 - 2 - Giới thiệu tổng quan trang admin: https://youtu.be/sjGDKjRbaFo
 - 3 - Quản lý bài viết: https://youtu.be/KnT0YgLEdVA
@@ -27,7 +27,7 @@ Chương I: Giới thiệu cách sử dụng CMS
 - 15 - Làm website tin tức: https://www.youtube.com/watch?v=ENJqc3ivCUY
 - 16 - Làm website bán hàng: https://youtu.be/FgaHchTls5w
 
-Chương II: Lập trình plugin
+### Chương II: Lập trình plugin
 - 17 - Cấu trúc database: https://www.youtube.com/watch?v=UKr0lW-ZNqI
 - 18 - Action và filter: https://www.youtube.com/watch?v=CctHa1KhmPE
 - 19 - Plugin demo: https://www.youtube.com/watch?v=CctHa1KhmPE
@@ -47,5 +47,5 @@ Chương II: Lập trình plugin
 - 34 - Tạo CSDL, chèn dữ liệu mẫu khi plugin được bật trong wordpress
 - 35 - Quốc tế hóa plugin trong wordpress
 
-Chương III: Lập trình theme
+### Chương III: Lập trình theme
 
