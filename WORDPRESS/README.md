@@ -2,14 +2,14 @@ WordPress là một CMS nổi tiếng hiện nay và WordPress đang đứng ở
 
 Hãy cùng Quảng Trị Coder chinh phục CMS nỗi tiếng này các bạn nhé:
 
-TÀI LIỆU KHÓA HỌC:
+##TÀI LIỆU KHÓA HỌC:
 https://github.com/taitamfc/TAI_LIEU_KHOA_HOC/tree/main/WORDPRESS
 
-NỘI DUNG KHÓA HỌC:
+##NỘI DUNG KHÓA HỌC:
 
 Chương I: Giới thiệu cách sử dụng CMS
-1 - Giới thiệu và cài đặt: https://youtu.be/ujyikzilp5M
-2 - Giới thiệu tổng quan trang admin: https://youtu.be/sjGDKjRbaFo
+- 1 - Giới thiệu và cài đặt: https://youtu.be/ujyikzilp5M
+- 2 - Giới thiệu tổng quan trang admin: https://youtu.be/sjGDKjRbaFo
 3 - Quản lý bài viết: https://youtu.be/KnT0YgLEdVA
 4 - Quản lý chuyên mục: https://youtu.be/hdoAnOqAYNs
 5 - Quản lý thẻ: https://youtu.be/XTxSv-NAZjk
