@@ -51,7 +51,11 @@ https://github.com/taitamfc/TAI_LIEU_KHOA_HOC/tree/main/WORDPRESS
 - 37 - Bảo mật cho plugin: https://youtu.be/x4VQxAfZ7hU
 
 ### Chương III: Lập trình theme wordpress: Sử dụng plugin tự viết
-- 00 - 
+- 38 - Cấu trúc thư mục theme: https://www.youtube.com/watch?v=a3d1O59xNLk
+- 39 - Đăng ký styles, scripts cho theme: https://www.youtube.com/watch?v=6UmDqa1ImEA
+- 40 - Phân tách các thành phần giao diện: https://www.youtube.com/watch?v=YYifGMFsRus
+- 41 - Làm việc với menu: https://www.youtube.com/watch?v=lWq4_RIKC1A
+- 42 - Hiển thị bài viết ra trang blog: https://www.youtube.com/watch?v=4d0AATuDhjI
 
 ### Chương IV: Lập trình theme wordpress: Sử dụng plugin woocommerce
 - 00 - 
