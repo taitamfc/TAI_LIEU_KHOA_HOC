@@ -1,4 +1,11 @@
-<section class="hero hero-normal">
+<?php
+    global $theme_uri;
+    $hero_class = 'hero-normal';
+    if( is_front_page() ){
+        $hero_class = '';
+    }
+?>
+<section class="hero <?= $hero_class; ?>">
     <div class="container">
         <div class="row">
             <div class="col-lg-3">
@@ -26,6 +33,16 @@
                         </div>
                     </div>
                 </div>
+                <?php if(is_front_page() ):?>
+                <div class="hero__item set-bg" data-setbg="<?= $theme_uri; ?>/img/hero/banner.jpg">
+                    <div class="hero__text">
+                        <span>FRUIT FRESH</span>
+                        <h2>Vegetable <br />100% Organic</h2>
+                        <p>Free Pickup and Delivery Available</p>
+                        <a href="#" class="primary-btn">SHOP NOW</a>
+                    </div>
+                </div>
+                <?php endif;?>
             </div>
         </div>
     </div>

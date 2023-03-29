@@ -28,4 +28,10 @@ function wp2023_theme_register_scripts(){
     wp_enqueue_script($theme_prefix.'-owl-js',$theme_uri.'/js/owl.carousel.min.js',[],$theme_version,true);
     wp_enqueue_script($theme_prefix.'-main-js',$theme_uri.'/js/main.js',[],$theme_version,true);
     wp_enqueue_script($theme_prefix.'-custom-js',$theme_uri.'/custom.js',[],$theme_version,true);
+    wp_localize_script($theme_prefix.'-custom-js', 'custom_js_object',
+		array( 
+			'ajaxurl' => admin_url( 'admin-ajax.php' ),
+            'nonce' => wp_create_nonce('wp2023_add_to_cart')
+		)
+	);
 }

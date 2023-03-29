@@ -19,7 +19,7 @@ Template Name: Trang chủ
     <!-- Banner End -->
 
     <!-- Latest Product Section Begin -->
-    <?php get_template_part('template-parts/page/home/latest-product');?>
+    <?php //get_template_part('template-parts/page/home/latest-product');?>
     <!-- Latest Product Section End -->
 
     <!-- Blog Section Begin -->
